@@ -1,0 +1,85 @@
+/* Additional styling for Task 3 */
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header ul {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+header li.logo {
+    font-size: 36px;
+    margin-right: 20px;
+}
+
+article {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+aside {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #fff;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+/* Social links styling */
+#social ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#social li {
+    margin-bottom: 10px;
+}
+
+#social a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#social a:hover {
+    text-decoration: underline;
+}
