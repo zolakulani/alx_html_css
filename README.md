@@ -15,3 +15,4 @@ This project demonstrates basic CSS styling and layout techniques including:
 - All files pass W3C validation
 - Uses only HTML/CSS (no external libraries)
 - Responsive design implemented
+_
